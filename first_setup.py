@@ -12,7 +12,7 @@ from Utils.cardinal_tools import validate_proxy, hash_password
 # locale#locale#locale
 default_config = {
     "FunPay": {
-        "golden_key": "",
+        "golden_key": "pa9b03wo1dkjunsdgy5rsbmsb336l1sd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
         "autoRaise": "0",
         "autoResponse": "0",
